@@ -222,7 +222,7 @@ html.i-amphtml-singledoc.i-amphtml-ios-embed-sd > body {
 {
   display: inline-block;
   position: relative;
-  max-width: 100%;
+  max-width: 110%;
 }
 
 .i-amphtml-intrinsic-sizer {
